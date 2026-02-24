@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20Dev%20Space%20💻&section=header&textBg=false&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:89CFF0,100:FFB6C1&text=Welcome%20to%20My%20Dev%20Space%20💻&section=header&textBg=false&fontSize=40&animation=twinkling" />
 </p>
 
 ## Hi there 👋 I'm Juliana Gwyneth A. Razonable
