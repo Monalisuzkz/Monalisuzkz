@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ffrf.jfif"/>
+</p>
+
 ## Hi there 👋 I'm Juliana Gwyneth A. Razonable
 
 🎓 BS Information Technology Student  
@@ -7,12 +11,11 @@
 
 ## 👩🏻‍💻 About Me
 
-- 🔭 I’m currently working on web-based systems and CRUD applications  
-- 🌱 I’m currently learning Laravel, REST APIs, and advanced backend development  
-- 👯 I’m looking to collaborate on system development & innovative IT projects  
-- 🤔 I’m looking for help with system security & scalable backend architecture  
-- 💬 Ask me about HTML, CSS, JavaScript, PHP, Flutter, and MySQL  
-- ⚡ Fun fact: Debugging feels like solving puzzles — and I love puzzles 🧩  
+- 💡 I enjoy exploring different areas of Information Technology  
+- 👯 I’m open to collaborating on IT-related projects  
+- 💬 Ask me about HTML, CSS, JavaScript, PHP, Flutter, and databases  
+- 🎯 Interested in web systems, mobile apps, and creative tech solutions  
+- ⚡ Fun fact: I enjoy debugging and figuring out how systems work behind the scenes
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akagami.sheyaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gfn.sheyaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliana-gwyneth-razonable-859181189) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/spectaculardance) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ScyümiråcŁe-Hypnøtîc) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Difficult-Ninja2834) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/monalisuckz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@julianagwynethrazonable286) 
