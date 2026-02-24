@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ffrf.jfif" width="600"/>
+  <img src="ffrf.jfif" width="1000"/>
 </p>
 
 ## Hi there 👋 I'm Juliana Gwyneth A. Razonable
